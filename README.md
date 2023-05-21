@@ -16,3 +16,7 @@ This is a good example of  [my_code](https://gist.github.com/albertoi98/5235d485
 
 this is the [notebook](https://github.com/albertoi98/technical-discussions/blob/main/technical_docs.ipynb)
 
+## Image
+
+![grafik](https://github.com/albertoi98/technical-discussions/assets/25249869/96985bcb-34e9-470e-ad66-f8bee48c075d)
+
